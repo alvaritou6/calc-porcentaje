@@ -20,7 +20,7 @@ while True:
     4. Cambiar los números.
     5. Apagar la calculadora.
 
-        Creador Alvaro
+        Creador FocaMarina
     """)
     option = int(input('Introduce una opcion: '))
 
